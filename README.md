@@ -38,6 +38,13 @@ Hi there👋
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+</div><br><br><br>
+
+<div><h5>💡tool</h3>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ-FF6F00?style=for-the-badge&logo=IntelliJ IDEA
+&logoColor=white">
+
 </div>
 </div>
 
